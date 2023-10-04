@@ -1,0 +1,16 @@
+{
+  "name": "Monarca GMaps",
+  "short_name": "Monarca GMaps",
+  "description": "Ian Oviedo Berber",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FF2443FF",
+  "theme_color": "#FF2443FF",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
